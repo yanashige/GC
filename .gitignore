@@ -1,5 +1,5 @@
-class Test1 {
-	Test t ;
+class Test{
+	Test t;
 public static void main(String args[]){
 Test t2 = new Test();
 Test t3 = new Test();
@@ -9,8 +9,13 @@ t2.t = t3;
 t3.t = t4;
 t4.t = t2;
 
-t2 = null;
-t3 = null;
-t4 = null;
+//t2 = null;
+//t3 = null;
+//t4 = null;
+
+System.out.println(t2);
+System.out.println(t3);
+System.out.println(t4);
+
 }
 }
