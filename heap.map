@@ -1,0 +1,39 @@
+
+[Tue May 12 21:50:22 JST 2015] IBM HeapAnalyzer version 4.5.6 started.
+[Tue May 12 21:50:22 JST 2015] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+[Tue May 12 21:50:22 JST 2015] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Name:dom4j parser plug-in
+Version:1.1
+Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Registered SelectionPlugin method:onSelectionChange
+IBM HeapAnalyzer is up to date as of Tue May 12 21:50:33 JST 2015
+[Tue May 12 22:34:39 JST 2015] Heap Analysis of C:\jsample\before\heap.map(File Size:22,785,640 bytes) started
+[Tue May 12 22:34:39 JST 2015] Requesting 1,383,240 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 691,620 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 691,620 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 691,620 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 172,905 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 691,620 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 691,620 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 172,905 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 345,810 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Requesting 163,452 bytes of Java heap.
+[Tue May 12 22:34:40 JST 2015] Heap Analysis of heap.map completed in 00:00:00
+[Tue May 12 22:34:41 JST 2015] IBM Heap Analyzer index file: C:\jsample\before\heap.map.hax completed in 00:00:00
+Warning! There are 12010 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 8234 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 8152 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 7300 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 6708 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 6550 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 6550 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 12010 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 8234 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 8152 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 7300 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 6708 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 6550 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 5524 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 5524 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
+Warning! There are 5524 elements for int[]. Showing only first 100 elements.Please increase the Maximum number of content display from View->Options Menu to view more data
